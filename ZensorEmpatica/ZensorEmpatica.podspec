@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "ZensorEmpatica"
-  spec.version      = "0.0.2"
+  spec.version      = "0.0.4"
   spec.summary      = "Empatica sensors connectivity"
   spec.description  = "Sensors connectivity framework for Empatica devices for ZensorFlow project"
   spec.homepage     = "https://github.com/ZensorFlow/ZensorEmpatica"

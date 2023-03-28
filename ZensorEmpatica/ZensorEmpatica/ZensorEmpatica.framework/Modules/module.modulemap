@@ -1,0 +1,11 @@
+framework module ZensorEmpatica {
+  umbrella header "ZensorEmpatica.h"
+
+  export *
+  module * { export * }
+}
+
+module ZensorEmpatica.Swift {
+  header "ZensorEmpatica-Swift.h"
+  requires objc
+}
