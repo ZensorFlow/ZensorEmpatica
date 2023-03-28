@@ -1,0 +1,16 @@
+PODS:
+  - ZensorEmpatica (0.0.2)
+
+DEPENDENCIES:
+  - ZensorEmpatica (from `../ZensorEmpatica/`)
+
+EXTERNAL SOURCES:
+  ZensorEmpatica:
+    :path: "../ZensorEmpatica/"
+
+SPEC CHECKSUMS:
+  ZensorEmpatica: eeafcdf87bed48d5e2e4d9ac7b31d0136dd895cb
+
+PODFILE CHECKSUM: 1bdfa2fc46da2b3a4b5a84482dc21209ae78fdca
+
+COCOAPODS: 1.12.0

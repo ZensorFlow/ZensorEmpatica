@@ -1,0 +1,6 @@
+framework module ZensorEmpatica {
+  umbrella header "ZensorEmpatica-umbrella.h"
+
+  export *
+  module * { export * }
+}

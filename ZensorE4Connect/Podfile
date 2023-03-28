@@ -4,6 +4,6 @@ target 'ZensorE4Connect' do
 
   use_frameworks!
   # Pods for ZensorE4Connect
-  pod 'ZensorE4Connect', :path => '../ZensorEmpatica'
+  pod 'ZensorEmpatica', :path => '../ZensorEmpatica/'
 
 end
