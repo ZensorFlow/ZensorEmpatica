@@ -2,7 +2,7 @@
 //  ZensorEmpatica.h
 //  ZensorEmpatica
 //
-//  Created by Nothing2saY on 2023/03/28.
+//  Created by Nothing2saY
 //
 
 #import <Foundation/Foundation.h>

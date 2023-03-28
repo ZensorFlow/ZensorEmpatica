@@ -2,7 +2,7 @@
 //  E4Connect.swift
 //  ZensorEmpatica
 //
-//  Created by Nothing2saY on 2023/03/28.
+//  Created by Nothing2saY
 //
 
 import Foundation
@@ -15,12 +15,15 @@ public class E4Connect {
         var connected: Bool = false
         if !apiKey.isEmpty {
             connected = true
+            print("Zensors connected")
+        } else {
+            print("Connecting failed")
         }
         return connected
     }
     
-    public static func debugMessage() {
-        print("ZensorFlow")
+    public static func zensorMessage() -> String {
+        return "ZensorFlow!"
     }
     
     
