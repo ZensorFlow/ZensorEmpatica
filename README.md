@@ -1,2 +1,2 @@
 # ZensorEmpatica
-Sensors connectivity framework for Empatica devices
+iOS framework for Empatica E4 device
